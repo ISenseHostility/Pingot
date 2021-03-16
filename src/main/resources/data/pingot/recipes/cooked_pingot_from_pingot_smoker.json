@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smoking",
+  "ingredient": {
+    "item": "pingot_mod:pingot"
+  },
+  "result": "pingot_mod:cooked_pingot",
+  "experience": 0.1,
+  "cookingtime": 100
+}

@@ -1,0 +1,8 @@
+{
+  "item.pingot_mod.pingot": "Pingot",
+  "item.pingot_mod.cooked_pingot": "Cooked Pingot",
+
+  // tooltips
+  "item.pingot_mod.pingot.tooltip": "Ingot? Pig? Yes.",
+  "item.pingot_mod.cooked_pingot.tooltip": "Ingot? Pig? Cooked? Yes."
+}

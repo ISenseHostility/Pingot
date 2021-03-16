@@ -1,0 +1,13 @@
+
+modLoader="javafml" #mandatory
+loaderVersion="[36,)" #mandatory This is typically bumped every Minecraft version by Forge. See our download page for lists of versions.
+license="All rights reserved"
+[[mods]] #mandatory
+modId="pingot_mod" #mandatory
+version="1.16.5-1.0.0" #mandatory
+displayName="Pingot" #mandatory
+logoFile="pingot.png" #optional
+authors="ISenseHostility" #optional
+description='''
+Pingot adds an edible pingot. That's it.
+'''

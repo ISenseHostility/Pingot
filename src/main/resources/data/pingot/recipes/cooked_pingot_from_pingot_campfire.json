@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:campfire_cooking",
+  "ingredient": {
+    "item": "pingot_mod:pingot"
+  },
+  "result": "pingot_mod:cooked_pingot",
+  "experience": 0.35,
+  "cookingtime": 600
+}

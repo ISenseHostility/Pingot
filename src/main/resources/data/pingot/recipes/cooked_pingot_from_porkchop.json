@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "minecraft:cooked_porkchop"
+  },
+  "result": "pingot_mod:cooked_pingot",
+  "experience": 0.1,
+  "cookingtime": 100
+}
